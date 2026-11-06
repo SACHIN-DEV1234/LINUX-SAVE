@@ -205,4 +205,4 @@ Guardian is an early-stage build. Before a public or commercial release:
 
 ## License:
 GNU GENERAL PUBLIC LICESE
-Version 3, June 1991
+Version 2.0, June 1991
