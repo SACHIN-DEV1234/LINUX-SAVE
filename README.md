@@ -1,4 +1,4 @@
-# Guardian
+ok# Guardian
 
 Guardian is a Linux security product that protects you from phishing and malicious websites. It has three parts:
 
@@ -203,6 +203,6 @@ Guardian is an early-stage build. Before a public or commercial release:
 - Publish a privacy policy and terms of service
 - Add scheduled feed updates
 
-## License
-
-To be decided. Choose a license before you publish the code or distribute it.
+## License:
+GNU GENERAL PUBLIC LICESE
+Version 3, June 1991
